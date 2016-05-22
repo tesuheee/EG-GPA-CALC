@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\bin\Release\GPA計算機.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\bin\Release\GPA計算機.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\bin\Release\GPA計算機.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\簡易GPA算出機\簡易GPA算出機\obj\Release\GPA計算機.csprojResolveAssemblyReference.cache

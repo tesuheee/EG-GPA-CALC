@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\bin\Debug\簡易GPA算出機.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\bin\Debug\簡易GPA算出機.exe
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\bin\Debug\簡易GPA算出機.pdb
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.exe
+c:\users\acer\documents\visual studio 2013\Projects\簡易GPA算出機\簡易GPA算出機\obj\Debug\簡易GPA算出機.pdb
